@@ -35,11 +35,3 @@
 <a href="https://bookstore-e-commerce-z27y.onrender.com">Check the website here!</a>
 </br>
 <br/>
-<a href="https://github.com/EcommerceProyect/BookStore-E-commerce">Or check the repository!</a>
-
-
-- 🌱 I’m currently learning **TypeScript**
-
-- 📫 Reach me through my email: **maxdienes@gmail.com**
-
-- ⚡ Fun fact **I'm super passionate about music! I currently play the drums and the guitar :)**
