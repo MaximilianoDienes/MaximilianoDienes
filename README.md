@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maximiliano Dienes</h1>
 <h3 align="center">A passionate Full-Stack Developer from Argentina</h3>
+<h3 align="center">About me </h3>
+
+- I'm a graduate from the Henry Bootcamp, where I gained plenty of experience, and with practice, I had the opportunity to take my coding skills to the next level.
 
 - 🌱 I’m currently learning **TypeScript**
 
@@ -7,7 +10,7 @@
 
 - ⚡ Fun fact **I'm super passionate about music! I currently play the drums and the guitar :)**
 
-<h3 align="center">About me </h3>
+
 
 <p align="left">
 <a href="https://linkedin.com/in/maximiliano dienes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximiliano dienes" height="30" width="40" /></a>
