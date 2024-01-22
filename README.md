@@ -23,11 +23,6 @@
 
 <hr style="border: 1px solid gray;">
 <h3 align="center">Projects</h3>
-<h4 align="left">PI Videogames</h4>
-- In my Videogames project, I put the skills acquired in the Henry bootcamp (JavaScript, React, React-Redux, Node.js, Express.js, PostgreSQL) to the test by developing a Single Page Application (SPA) as a Full-Stack developer independently. I utilized the RAWG API to request information about various video games, enabling users to filter, sort, and search for them. It also allows users to input their own video game, saving the information in a database.
-<br/>
-<br/>
-<a href="https://github.com/MaximilianoDienes/PI-VideoGames">Check my repository here!</a>
 <h4 align="left">Apolo Bookstore</h4>
 - For our final project in the Henry Bootcamp, me and 6 colleagues developed a bookstore e-commerce, where a user can search for products, save them to their cart and buy them, using MercadoPago as our payment gateway. It has a review system, only accesible if the user has already bought the product, and it also has an admin dashboard, only accessible by users with the respective permissions. In this dashboard, the administrator can manage users, products and orders, grant permissions to other users, and more. It was developed using JavasCRIPT, Redux Toolkit, Node.js, Express.js, PostgreSQL, and Tailwind CSS.
 <br/>
@@ -35,3 +30,9 @@
 <a href="https://bookstore-e-commerce-z27y.onrender.com">Check the website here!</a>
 </br>
 <br/>
+<h4 align="left">PI Videogames</h4>
+- In my Videogames project, I put the skills acquired in the Henry bootcamp (JavaScript, React, React-Redux, Node.js, Express.js, PostgreSQL) to the test by developing a Single Page Application (SPA) as a Full-Stack developer independently. I utilized the RAWG API to request information about various video games, enabling users to filter, sort, and search for them. It also allows users to input their own video game, saving the information in a database.
+<br/>
+<br/>
+<a href="https://github.com/MaximilianoDienes/PI-VideoGames">Check my repository here!</a>
+
