@@ -4,6 +4,8 @@
 
 - I'm a graduate from the Henry Bootcamp, where I gained plenty of experience, and with practice, I had the opportunity to take my coding skills to the next level.
 
+- I'm eager to learn new technologies, and explore the possibilities they facilitate!
+
 - 🌱 I’m currently learning **TypeScript**
 
 - 📫 Reach me through my email: **maxdienes@gmail.com**
